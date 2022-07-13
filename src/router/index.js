@@ -41,7 +41,7 @@ export const constantRoutes = [
     meta: {
       name: '页面二',
     },
-    component: () => import('/@/views/test.vue'),
+    component: () => import('/@/views/Test.vue'),
   },
 ]
 
