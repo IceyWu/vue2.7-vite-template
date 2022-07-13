@@ -26,7 +26,7 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          'element-ui': ['element-ui'],
+          
         },
       },
     },

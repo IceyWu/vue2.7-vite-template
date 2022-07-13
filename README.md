@@ -6,7 +6,7 @@ Vite Vue2.7 template using pinia and unocss
 
 > ✨ 示例代码: https://github.com/suqii/vue2.7-vite-template
 
-> 🌈 示例页面: https://github.com/suqii/vue2.7-vite-template
+> 🌈 示例页面: https://vue-vite-template.netlify.app/
 
 ````
 
