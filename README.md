@@ -1,19 +1,29 @@
-# Vue 2.7-Vite-template
+<h1 align="center">Vite ⚡ - Vue 2.7  template</h1>
 
-Vite Vue2.7 template using pinia and unocss
+<p align="center">
+  Vite Vue2.7 template using pinia and unocss 
+</p>
 
-> vue2.7 + vite + pinia + unocss
+<p align="center">
+ <a href="https://vue-vite-template.netlify.app/"> ✨ Live Demo</a>
+</p>
 
-> ✨ 示例代码: https://github.com/suqii/vue2.7-vite-template
+### Scripts
 
-> 🌈 示例页面: https://vue-vite-template.netlify.app/
-
-````
-
-## Scripts
+start dev server
 
 ```bash
-  pnpm run dev # start dev server
-  pnpm run build # build for production
-  pnpm run serve # locally preview production build
-````
+pnpm run dev
+```
+
+build for production
+
+```bash
+pnpm run build
+```
+
+locally preview production build
+
+```bash
+pnpm run serve
+```
