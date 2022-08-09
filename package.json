@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@iconify-json/twemoji": "^1.1.5",
     "@unocss/preset-attributify": "^0.44.1",
     "@unocss/preset-icons": "^0.44.1",
     "@unocss/preset-uno": "^0.44.1",

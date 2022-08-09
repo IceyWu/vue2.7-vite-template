@@ -4,6 +4,8 @@
   Vite Vue2.7 template using pinia and unocss 
 </p>
 
+<img src="https://suqiqi.oss-cn-beijing.aliyuncs.com/picGo/vue2.7_vite.png">
+
 <p align="center">
  <a href="https://vue-vite-template.netlify.app/"> ✨ Live Demo</a>
 </p>
